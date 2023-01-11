@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwltn0430&show_icons=true&theme=radical)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwltn0430&langs_count=10&layout=compact&theme=dark)](https://github.com/dlwltn0430/dlwltn0430)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwltn0430&langs_count=10&layout=compact&theme=dark)](https://github.com/dlwltn0430/dlwltn0430)-->
 
 
 <!--
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
