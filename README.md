@@ -1,6 +1,4 @@
-## About me 🐰 <a href="https://www.instagram.com/_zixxu__/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-	</a>
+## About me 🐰 <a href="https://www.instagram.com/_zixxu__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.instagram.com/_zixxu__/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
