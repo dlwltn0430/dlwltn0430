@@ -1,4 +1,7 @@
-## About me 🐰
+## About me 🐰 
+<a href="https://www.instagram.com/_zixxu__/">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
 - 부산대학교 정보컴퓨터공학부 ( 2021.03 ~ )
 
 - 부산대학교 앱 런칭 동아리 UMC 2기 ( 2022.03 ~ 2022.08 )   
@@ -9,8 +12,6 @@
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 </div>
-
-<br>
 
 ## Teck Stack 🛠️
 <!--<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>-->
