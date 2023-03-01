@@ -2,7 +2,7 @@
 - 부산대학교 정보컴퓨터공학부 ( 2021.03 ~ )
 - 부산대학교 앱 런칭 동아리 UMC 2기 ( 2022.03 ~ 2022.08 )   
 - 부산 연합 IT 동아리 PROJECT 5기 ( 2023.01 ~ )
-- 부산대학교 IT 서비스 출시 동아리 UMC Web 2기 ( 2023.02 ~ )
+- 부산대학교 IT 서비스 출시 동아리 APPTIVE 18기 ( 2023.02 ~ )
 <div align="center">
     <a href="https://www.instagram.com/_zixxu__/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
