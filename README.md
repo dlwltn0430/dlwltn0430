@@ -27,7 +27,7 @@
 |[CAFE AROUND](https://github.com/dlwltn0430/cafe-around-frontend)|PROJECT|
 |[우리 팀 총무](https://github.com/dlwltn0430/dutchpay-calculator)|PROJECT|
 |[나옹](https://github.com/dlwltn0430/Naong)|
-|[한국정신건강협회](https://github.com/dlwltn0430/mental_health_website)|외주|
+|한국정신건강협회|외주|
 |[부산대 알리미](https://github.com/ApptiveDev/apptive-18th-team4-frontend)|APPTIVE|
 |[환경 데이터의 교육적 활용을 위한 클라우드 기반 공유 플랫폼 개발 및 적용](https://github.com/EnvEduPNU/EnvEdu_Front)|부산대학교 과학교육연구소|
 
