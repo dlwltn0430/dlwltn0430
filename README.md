@@ -13,7 +13,6 @@
 </div>
 
 ## Projects 👩🏻‍💻
-<div align="center">
 |프로젝트명|소속|
 |:-:|:-:|
 |[뷰잉뷰잉](https://github.com/viewingviewing/front-end-codes)|UMC|
@@ -23,7 +22,6 @@
 |[한국정신건강협회](https://github.com/dlwltn0430/mental_health_website)|외주|
 |[부산대 알리미](https://github.com/ApptiveDev/apptive-18th-team4-frontend)|APPTIVE|
 |[환경 데이터의 교육적 활용을 위한 클라우드 기반 공유 플랫폼 개발 및 적용](https://github.com/EnvEduPNU/EnvEdu_Front)|부산대학교 과학교육연구소|
-</div>
 
 ## Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white"><br>
