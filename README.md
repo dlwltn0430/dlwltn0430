@@ -3,9 +3,9 @@
 - 부산대학교 앱 런칭 동아리 UMC 2기 ( 2022.03 ~ 2022.08 )   
 - 부산대학교 창업 동아리 SK LOOKIE ( 2022.03 ~ 2022.09 )
 - 부산 연합 IT 동아리 PROJECT 5기 ( 2023.01 ~ 2023.03 )
-- 부산대학교 IT 서비스 출시 동아리 APPTIVE 18기 ( 2023.02 ~ )
+- **부산대학교 IT 서비스 출시 동아리 APPTIVE 18기 ( 2023.02 ~ )**
 - 한국정신건강협회 외주 ( 2023.05 ~ 2023.06 )
-- 부산대학교 과학교육연구소 연구 과제 참여 ( 2023.06 ~ )
+- **부산대학교 과학교육연구소 연구 과제 참여 ( 2023.06 ~ )**
 <div align="center">
     <a href="https://www.instagram.com/_zixxu__/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
