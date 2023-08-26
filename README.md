@@ -6,6 +6,8 @@
 - **부산대학교 IT 서비스 출시 동아리 APPTIVE 18기 ( 2023.02 ~ )**
 - 한국정신건강협회 외주 ( 2023.05 ~ 2023.06 )
 - **부산대학교 과학교육연구소 연구 과제 참여 ( 2023.06 ~ )**
+- **웹응용프로그래밍 수업 조교 ( 2023.09 ~ )**
+  
 <div align="center">
     <a href="https://www.instagram.com/_zixxu__/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
