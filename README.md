@@ -6,6 +6,7 @@
 - **부산대학교 IT 서비스 출시 동아리 APPTIVE 18기 ( 2023.02 ~ )**
 - 한국정신건강협회 외주 ( 2023.05 ~ 2023.06 )
 - **부산대학교 과학교육연구소 연구 과제 참여 ( 2023.06 ~ )**
+- **데이너 커피 홈페이지 개발 ( 2023.09 ~ )**
 - **웹응용프로그래밍 수업 조교 ( 2023.09 ~ )**
 - **부산대학교 인공지능 동아리 AID 3기 ( 2023.09 ~ )**
   
@@ -20,7 +21,8 @@
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"><br>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"><br>
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"><br>
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"><br>
+	<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 </div>
 
 ## Projects 👩🏻‍💻
