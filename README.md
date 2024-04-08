@@ -6,14 +6,14 @@
 - [카카오 테크 캠퍼스 2기 FE 트랙](https://www.kakaotechcampus.com/user/index.do) ( 2024.04 ~ )
 
 ## Experience
-<span style="background-color:#fff5b1">Club</span>
+<b>Club</b>
 - 부산대학교 앱 런칭 동아리 UMC 2기 ( 2022.03 ~ 2022.08 )   
 - 부산대학교 창업 동아리 SK LOOKIE ( 2022.03 ~ 2022.09 )
 - 부산 연합 IT 동아리 PROJECT 5기 ( 2023.01 ~ 2023.03 )
 - 부산대학교 IT 서비스 출시 동아리 APPTIVE 18기 ( 2023.02 ~ 2024.02 )
 - 부산대학교 인공지능 동아리 AID 3기 ( 2023.09 ~ 2023.12 )
 
-<span style="background-color:#fff5b1">Project</span>
+<b>Project</b>
 |기간|프로젝트명|소속|
 |:-:|:-:|:-:|
 |2022.07 ~ 2022.08|[뷰잉뷰잉](https://github.com/viewingviewing/front-end-codes)|동아리(UMC)|
@@ -25,7 +25,7 @@
 |2023.06 ~ 2024.04|[환경 데이터의 교육적 활용을 위한 클라우드 기반 공유 플랫폼 개발 및 적용](https://github.com/EnvEduPNU/EnvEdu_Front)|부산대학교 과학교육연구소 연구 과제|
 |2023.09 ~ 현재|[데이너 커피](https://dayner.net/)||
 
-<span style="background-color:#fff5b1">Etc</span>
+<b>Etc</b>
 - 부산대학교 웹응용프로그래밍 수업 조교 ( 2023.09 ~ 2023.12 )
 - 부산대학교 과학교육연구소 학부 연구생 ( 2023.06 ~ 2024.04 )
 
