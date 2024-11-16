@@ -1,9 +1,9 @@
 ## About me
-안녕하세요! 프론트엔드 개발자 이지수입니다.<br>FE 개발, UI/UX 디자인, 컴퓨터 비전에 관심이 많아요.
+안녕하세요! 프론트엔드 개발자 이지수입니다. 
 
 ## Education
-- 부산대학교 정보컴퓨터공학부 ( 2021.03 ~ )
-- [카카오 테크 캠퍼스 2기 FE 트랙](https://www.kakaotechcampus.com/user/index.do) ( 2024.04 ~ )
+- 부산대학교 정보컴퓨터공학부 ( 2021.03 ~ 2025.02 )
+- [카카오 테크 캠퍼스 2기 FE 트랙](https://www.kakaotechcampus.com/user/index.do) ( 2024.04 ~ 2024.11 )
 
 ## Experience
 <b>Club</b>
@@ -23,6 +23,7 @@
 |2023.05 ~ 2023.06|한국정신건강협회|외주|
 |2023.03 ~ 2023.07|[부산대 알리미](https://github.com/ApptiveDev/apptive-18th-team4-frontend)|동아리(APPTIVE)|
 |2023.06 ~ 2024.04|[환경 데이터의 교육적 활용을 위한 클라우드 기반 공유 플랫폼 개발 및 적용](https://github.com/EnvEduPNU/EnvEdu_Front)|부산대학교 과학교육연구소 연구 과제|
+|2024.09 ~ 2024.11|[돌봄다리](https://github.com/kakao-tech-campus-2nd-step3/Team13_FE)|카카오테크캠퍼스|
 |2023.09 ~ 현재|[데이너 커피](https://dayner.net/)||
 
 <b>Etc</b>
