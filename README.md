@@ -31,7 +31,9 @@
 - 부산대학교 과학교육연구소 학부 연구생 ( 2023.06 ~ 2024.04 )
 
 ## Award
-4th 패스핵 : 메이커스페이스와 함께하는 메이커톤 스폰서 트랙상 ( 2023.02.25. )
+- 4th 패스핵 : 메이커스페이스와 함께하는 메이커톤 스폰서 트랙상 ( 2023.02.25. )
+- [카카오테크캠퍼스 아이디어톤 우수상](https://github.com/kakao-tech-campus-2nd-step3/Team13_FE) ( 2024.08.23. )
+- [BDIA Dev-ton 기술상](https://github.com/pnucse-capstone-2024/Capstone-2024-team-05) ( 2024.11.20. )
 
 ## Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white"><br>
