@@ -12,6 +12,7 @@
 - 부산대학교 과학교육연구소 학부 연구생 ( 2023.06 ~ 2024.04 )
 
 ### 수상
+- DIVE 2025 BNK 금융지주 트랙 2위 ( 2025.08.24. )
 - STDev Science Hackathon 2025 우수상 ( 2025.04.20. ) 
 - [BDIA Dev-ton 기술상](https://github.com/pnucse-capstone-2024/Capstone-2024-team-05) ( 2024.11.20. )
 - [카카오테크캠퍼스 아이디어톤 우수상](https://github.com/kakao-tech-campus-2nd-step3/Team13_FE) ( 2024.08.23. )
